@@ -4,7 +4,7 @@ coverage/
 dist/test/
 examples/
 node_modules/
-src/
+src/test
 temp/
 typings/
 
